@@ -1,0 +1,21 @@
+{
+  "QA": {
+      "platformuser": {
+        "username": "QALogin_Automation",
+        "password": "QA123!@lower"
+      },
+      "ATMWorkflowBroker": {
+        "username": "ATMWorkflowBroker2022",
+        "password": "QA123!@lower"
+    },
+
+    "stateMedicareBroker": {
+      "username": "agentMedicareCAPA1",
+      "password": "QA123!@lower"
+    },
+    "medigapBroker": {
+      "username": "agentMedigap1",
+      "password": "QA123!@lower"
+    }
+  }
+}
